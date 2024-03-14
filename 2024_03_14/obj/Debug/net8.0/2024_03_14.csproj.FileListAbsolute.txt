@@ -1,0 +1,14 @@
+C:\C#\2024_03_14\2024_03_14\bin\Debug\net8.0\2024_03_14.exe
+C:\C#\2024_03_14\2024_03_14\bin\Debug\net8.0\2024_03_14.deps.json
+C:\C#\2024_03_14\2024_03_14\bin\Debug\net8.0\2024_03_14.runtimeconfig.json
+C:\C#\2024_03_14\2024_03_14\bin\Debug\net8.0\2024_03_14.dll
+C:\C#\2024_03_14\2024_03_14\bin\Debug\net8.0\2024_03_14.pdb
+C:\C#\2024_03_14\2024_03_14\obj\Debug\net8.0\2024_03_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\2024_03_14\2024_03_14\obj\Debug\net8.0\2024_03_14.AssemblyInfoInputs.cache
+C:\C#\2024_03_14\2024_03_14\obj\Debug\net8.0\2024_03_14.AssemblyInfo.cs
+C:\C#\2024_03_14\2024_03_14\obj\Debug\net8.0\2024_03_14.csproj.CoreCompileInputs.cache
+C:\C#\2024_03_14\2024_03_14\obj\Debug\net8.0\2024_03_14.dll
+C:\C#\2024_03_14\2024_03_14\obj\Debug\net8.0\refint\2024_03_14.dll
+C:\C#\2024_03_14\2024_03_14\obj\Debug\net8.0\2024_03_14.pdb
+C:\C#\2024_03_14\2024_03_14\obj\Debug\net8.0\2024_03_14.genruntimeconfig.cache
+C:\C#\2024_03_14\2024_03_14\obj\Debug\net8.0\ref\2024_03_14.dll
